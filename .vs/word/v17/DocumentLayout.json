@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\trieu\\OneDrive\\M\u00E1y t\u00EDnh\\2100005929_Nguy\u1EC5n T\u1EA5n Nh\u00E3_WordPad\\W_WordPAD-main\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EBA7539D-3688-4104-95CE-7AA6EA3E33C9}|word\\word.csproj|c:\\users\\trieu\\onedrive\\m\u00E1y t\u00EDnh\\2100005929_nguy\u1EC5n t\u1EA5n nh\u00E3_wordpad\\w_wordpad-main\\word\\wordpad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EBA7539D-3688-4104-95CE-7AA6EA3E33C9}|word\\word.csproj|solutionrelative:word\\wordpad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBA7539D-3688-4104-95CE-7AA6EA3E33C9}|word\\word.csproj|C:\\Users\\trieu\\OneDrive\\M\u00E1y t\u00EDnh\\2100005929_Nguy\u1EC5n T\u1EA5n Nh\u00E3_WordPad\\W_WordPAD-main\\word\\wordpad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBA7539D-3688-4104-95CE-7AA6EA3E33C9}|word\\word.csproj|solutionrelative:word\\wordpad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WordPad.cs",
+              "DocumentMoniker": "C:\\Users\\trieu\\OneDrive\\M\u00E1y t\u00EDnh\\2100005929_Nguy\u1EC5n T\u1EA5n Nh\u00E3_WordPad\\W_WordPAD-main\\word\\WordPad.cs",
+              "RelativeDocumentMoniker": "word\\WordPad.cs",
+              "ToolTip": "C:\\Users\\trieu\\OneDrive\\M\u00E1y t\u00EDnh\\2100005929_Nguy\u1EC5n T\u1EA5n Nh\u00E3_WordPad\\W_WordPAD-main\\word\\WordPad.cs",
+              "RelativeToolTip": "word\\WordPad.cs",
+              "ViewState": "AQIAAMgBAAAAAAAAAAAAAPQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T15:19:41.776Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WordPad.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\trieu\\OneDrive\\M\u00E1y t\u00EDnh\\2100005929_Nguy\u1EC5n T\u1EA5n Nh\u00E3_WordPad\\W_WordPAD-main\\word\\WordPad.cs",
+              "RelativeDocumentMoniker": "word\\WordPad.cs",
+              "ToolTip": "C:\\Users\\trieu\\OneDrive\\M\u00E1y t\u00EDnh\\2100005929_Nguy\u1EC5n T\u1EA5n Nh\u00E3_WordPad\\W_WordPAD-main\\word\\WordPad.cs [Design]",
+              "RelativeToolTip": "word\\WordPad.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T15:14:51.242Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
